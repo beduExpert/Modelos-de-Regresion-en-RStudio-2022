@@ -20,7 +20,7 @@ Describir el proyecto en caso de que el módulo lo requiera **Obligatorio** .  (
 
 ##### Describir el temario del módulo **Obligatorio** . (Borrar está linea una vez se hay leido) 
 
-- [`Sesión 01:` Nombre de la sesión 01](./Sesion-01)
+- [`Sesión 01:` Regresión polinomial](./Sesion-01)
 - [`Sesión 02:` Nombre de la sesión 02](./Sesion-02)
 - [`Sesión 03:` Nombre de la sesión 03](./Sesion-03)
 - [`Sesión 04:` Nombre de la sesión 04](./Sesion-04)
