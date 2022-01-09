@@ -1,4 +1,4 @@
-# Nombre de módulo
+# Modelos de Regresión en RStudio
 
 ## :wave: Bienvenid@s
 
