@@ -25,4 +25,4 @@ Para llevar a cabo este reto deberás cargar los paquetes `ggplot2` y `ISRL2`.
 7. Realiza la gráfica de las palancas contra los valores de x (Porcentaje de hogares con bajo estatus sociéconomico).
 8. Crea algunas gráficas de diagnóstico para el último ajuste.
 9. Haz un resumen del modelo polinomial ajustado.
-10. Obtén la predicción para el valor mediano de vivienda cuando el porcentaje de hogares con bajo estatus sociéconomico 20, así como el intervalo de predicción del 95%.
+10. Obtén la predicción para el valor mediano de vivienda cuando el porcentaje de hogares con bajo estatus sociéconomico es 20, así como el intervalo de predicción del 95%.
