@@ -1,8 +1,11 @@
-# Reto #: Nombre del reto
+# Reto 1: Predicción de valor de viviendas usando estatus sociéconomico
 
 ## Objetivo
 
-- Implementar los dos tipos de errores y gestionarlos mediante las opciones del dashboard de Crashlytics.
+El conjunto de datos `Boston` del paquete `ISLR2` contiene valores de hogares en 506 suburbios de Boston. En este reto 
+
+- Construirás un modelo polinomial para predecir el valor mediano de viviendas usando el porcentaje de hogares con bajo estatus sociéconomico. 
+- Realizarás gráficas de diagnóstico para verificar que tan adecuado es el modelo.
 
 ## Desarrollo
 
