@@ -105,17 +105,6 @@ mean((Salary - predict(lm.fit3, ProfS))[-train]^2)
 
 ## Validación cruzada dejando-uno-fuera
 
-# Ajustamos un modelo de regresión lineal simple usando la 
-# función `glm`
-
-glm.fit <- glm(Salary ~ Experience, data = ProfS)
-
-# Obtenemos el error cuadrático medio de prueba estimado
-# con la técnica de validación cruzada dejando-uno-fuera.
-
-cv.err <- cv.glm(ProfS, glm.fit)
-cv.err$delta
-
 # Creamos un vector de longitud 10 para guardar los errores
 # cuadráticos medios de prueba
 
