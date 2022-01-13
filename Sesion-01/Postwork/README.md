@@ -5,7 +5,7 @@
 - Construir modelos polinomiales de diferentes grados
 - Elegir el modelo más adecuado usando el enfoque del conjunto de validación
 - Obtener el modelo más adecuado usando el enfoque de validación cruzada dejando uno fuera
-- Selecionar el modelo más adecuado usando el enfoque de validación cruzada de $k$ iteraciones
+- Selecionar el modelo más adecuado usando el enfoque de validación cruzada de _k_ iteraciones
 
 ## ⚙ Requisitos
 
