@@ -26,5 +26,5 @@ En este postwork construirás diferentes modelos de regresión polinomial y eleg
 5. Estima los errores cuadráticos medios de los modelos en el punto 4 usando el conjunto de validación.
 6. Repite los puntos 3, 4 y 5 usando conjuntos de entrenamiento y de validación diferentes a los del punto 3.
 7. Ajusta modelos polinomiales de grado 1 hasta 10 y obtén sus errores cuadráticos medios de prueba estimados con la técnica de validación cruzada dejando-uno-fuera.
-8. Ajusta modelos polinomiales de grado 1 hasta 10 y obtén sus errores cuadráticos medios de prueba estimados con la técnica de validación cruzada de $k$ iteraciones.
+8. Ajusta modelos polinomiales de grado 1 hasta 10 y obtén sus errores cuadráticos medios de prueba estimados con la técnica de validación cruzada de _k_ iteraciones.
 
