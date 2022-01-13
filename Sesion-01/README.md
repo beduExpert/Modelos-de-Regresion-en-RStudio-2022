@@ -6,7 +6,7 @@
 ### 1. Objetivos :dart: 
 
 - Realizar el gráfico de dispersión de los datos para sugerir posibles modelos polinomiales.
-- Ajustar un modelo de regresión polinomial.
+- Ajustar modelos de regresión polinomial.
 - Validar algunas suposiciones iniciales sobre los errores mediante gráficas de diágnóstico.
 - Realizar predicciones con el modelo ajustado.
 - Elegir mejores modelos mediante contraste de hipótesis ó validación cruzada.
