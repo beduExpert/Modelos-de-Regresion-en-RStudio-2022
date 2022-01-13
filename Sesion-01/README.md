@@ -5,12 +5,16 @@
 
 ### 1. Objetivos :dart: 
 
-- Reconocer el IDE Android Studio con el que desarrollan aplicaciones móviles.
-- Conocer la estructura de un proyecto android y todos los archivos generados por el IDE
+- Realizar el gráfico de dispersión de los datos para sugerir posibles modelos polinomiales.
+- Ajustar un modelo de regresión polinomial.
+- Validar algunas suposiciones iniciales sobre los errores mediante gráficas de diágnóstico.
+- Realizar predicciones con el modelo ajustado.
+- Elegir mejores modelos mediante contraste de hipótesis ó validación cruzada.
 
 ### 2. Contenido :blue_book:
 
-Android Studio te ayudará a desarrollar tu app más productivamente a escala. Android Studio ofrece las herramientas más rápidas para crear apps de Android. Codifica más rápido. Codifica con seguridad. Crea el mejor código. Elimina tareas tediosas. Compila sin límites.
+- Construcción de un modelo de regresión polinomial
+- Gráficas de diagnóstico y transformaciones
 
 ---
 
@@ -18,7 +22,7 @@ Android Studio te ayudará a desarrollar tu app más productivamente a escala. A
 
 #### <ins>Tema 1</ins>
 
-Se detalla como crear un proyecto android desde nuestra IDE __Android Studio__, viendo el significado de los distintos campos y opciones para su configuración.
+Se presentan las indicaciones principales para explorar los datos y sugerir en un caso determinado un modelo de regresión polinomial. Se muestra la manera en la que se ajusta un modelo de regresión polinomial y como presentar visualmente dicho modelo.
 
 - [**`EJEMPLO 1`**](./Ejemplo-01)
 - [**`RETO 1`**](./Reto-01)
@@ -29,7 +33,7 @@ Se detalla como crear un proyecto android desde nuestra IDE __Android Studio__, 
 
 #### <ins>Tema 2</ins>
 
-Una vez que el proyecto está creado, la estructura o forma en la que se organiza es de suma importancia. No sólo nos ayuda a mantener nuestro código organizado, sino que también es importante para el funcionamiento de nuestra nueva app.
+Cuando mediante las gráficas de diagnóstico no se pueden validar algunas suposiciones necesarias para los errores, una posible solución es transformar la variable de respuesta y ajustar un modelo de regresión polinomial a esta variable transformada.
 
 - [**`EJEMPLO 2`**](./Ejemplo-02)
 - [**`RETO 2`**](./Reto-02)
