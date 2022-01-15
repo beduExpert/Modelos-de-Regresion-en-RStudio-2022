@@ -1,15 +1,19 @@
-# Ejemplo # - Nombre del ejemplo
+# Ejemplo 2 - Predictores cualitativos
 
 ## Objetivo
 
-* Agregar los objetivos del ejemplo (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* En este ejemplo se refleja la situación en la que una variable predictiva cualitativa puede influenciar en el precio de un producto, se estima así su influencia en las ventas
+
+## Requisitos
+
+- Librerua ISLR
 
 ## Desarrollo
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el ejemplo.
->Si no es necesario, puedes borrar esta nota.
+Vamos a examinar el conjunto de datos _Carseats_ de la librería ISLR, este contiene los datos sobre ventas de asientos de autos para niños, en 400 localizaciones. 
 
-Aquí se debe agregar el desarrollo del ejemplo
+Lo primero que haremos es cargar la libreria 
 
+´´´R 
+library(ISLR)
+´´´
