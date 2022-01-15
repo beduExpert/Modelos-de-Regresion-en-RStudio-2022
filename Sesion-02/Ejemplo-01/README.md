@@ -74,4 +74,3 @@ m2 <- update(m1, ~.-Service)
 summary(m2)
 ```
 
-[`Anterior`](../Ejemplo-02/Readme.md) | [`Siguiente`](../Readme.md#estructura-de-una-consulta)
