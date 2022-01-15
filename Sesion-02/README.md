@@ -1,18 +1,22 @@
-## Sesión 2: Nombre de sesión 🤖
+## Sesión 2: Estimación e inferencia en regresión lineal múltiple 🤖
 
 <img src="../images/android-kotlin.png" align="right" height="120" hspace="10">
 <div style="text-align: justify;">
 
 ### 1. Objetivos :dart: 
 
-- Reconocer el IDE Android Studio con el que desarrollan aplicaciones móviles.
-- Conocer la estructura de un proyecto android y todos los archivos generados por el IDE
+1. Repasar conceptos básicos de estadística para contextualizar al alumno y sentar las bases de la estructura del curso. 
+2. Importar datos a `R`, con estos se podrán filtrar filas, seleccionar variables, transformar variables y en general manipular los datos para llevarlos a una forma deseada.
 
 ### 2. Contenido :blue_book:
 
-Android Studio te ayudará a desarrollar tu app más productivamente a escala. Android Studio ofrece las herramientas más rápidas para crear apps de Android. Codifica más rápido. Codifica con seguridad. Crea el mejor código. Elimina tareas tediosas. Compila sin límites.
+En esta sesión estudiaremos temas relacionados con los siguientes puntos
 
----
+- Medidas de posición y de dispersión
+- Funciones para observar algunas características de objetos en `R`
+- Funciones para filtrar filas, seleccionar variables y transformar un data frame en `R`
+- Funciones para combinar data frames en `R` por filas o por columnas
+- Importación de datos a `R`
 
 <img src="images/tools.png" align="right" height="90"> 
 
