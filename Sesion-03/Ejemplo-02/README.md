@@ -2,7 +2,12 @@
 
 ## Objetivo
 
-* Agregar los objetivos del ejemplo (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Ajustar un modelo que es una extensión del modelo de rectas de regresión no relacionadas a los datos de platillos en New York City. Mostrar que en ocasiones los resultados de modelos no coinciden con lo que se esperaría basándonos en la intuición o la experiencia.
+
+## Requisitos
+
+* Haber estudiado el Prework
+* Tener instalado `R` y `RStudio`
 
 ## Desarrollo
 
