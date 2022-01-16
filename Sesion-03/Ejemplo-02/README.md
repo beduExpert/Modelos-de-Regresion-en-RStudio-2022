@@ -22,7 +22,7 @@ attach(nyc)
 
 Ajustemos un modelo donde la variable de respuesta es `Price` sin considerar la variable `Service` ya que anteriormente se observó que su coeficiente de regresión no fue estadísticamente significativo.
 
-_Y = &beta;<sub>0</sub>_ + _&beta;<sub>1</sub>*_`Food` + _&beta;<sub>2</sub>*_`Decor` + _&beta;<sub>4</sub>*_`East` + _e_ (Reducido)
+`Price` _= &beta;<sub>0</sub>_ + _&beta;<sub>1</sub>*_`Food` + _&beta;<sub>2</sub>*_`Decor` + _&beta;<sub>4</sub>*_`East` + _e_ (Reducido)
 
 ```R
 m2 <- lm(Price ~ Food + Decor + East)
@@ -40,7 +40,7 @@ Que el modelo `m2` sugiera que la variable predictora `Service` no es estadísti
 
 Para investigar si el efecto de los predictores depende de la variable dummy `East` consideraremos el siguiente modelo el cual es una extensión a más de una variable predictora del modelo de rectas de regresión no relacionadas 
 
- _Y = &beta;<sub>0</sub>_ + _&beta;<sub>1</sub>*_`Food` + _&beta;<sub>2</sub>*_`Decor` +  _&beta;<sub>3</sub>*_`Service` + _&beta;<sub>4</sub>*_`East` 
+ `Price` _= &beta;<sub>0</sub>_ + _&beta;<sub>1</sub>*_`Food` + _&beta;<sub>2</sub>*_`Decor` +  _&beta;<sub>3</sub>*_`Service` + _&beta;<sub>4</sub>*_`East` 
            + _&beta;<sub>5</sub>*_ `Food`_*_`East` + _&beta;<sub>6</sub>*_ `Decor`_*_`East` + _&beta;<sub>7</sub>*_ `Service`_*_`East` + _e_ (Completo)
 
 ```R
