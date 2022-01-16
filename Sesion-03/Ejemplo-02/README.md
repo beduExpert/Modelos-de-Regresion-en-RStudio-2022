@@ -54,25 +54,26 @@ Note como ninguno de los coeficientes de regresión para los términos de intera
 summary(mfull)
 ```
 
-Ahora compararemos el modelo completo guardado en mfull contra el modelo reducido guardado en m2. Es decir, llevaremos a cabo una prueba de hipótesis general de
+Ahora compararemos el modelo completo guardado en `mfull` contra el modelo reducido guardado en `m2`. Es decir, llevaremos a cabo un contraste de hipótesis general de
 
-H0: beta3 = beta5 = beta6 = beta7 = 0 es decir 
-Y = beta0 + beta1*Food + beta2*Decor + beta4*East + e (Reducido)
+_H<sub>0</sub>: &beta;<sub>3</sub> = &beta;<sub>5</sub> = &beta;<sub>6</sub> = &beta;<sub>7</sub> = 0_, es decir, 
+`Price` _= &beta;<sub>0</sub>_ + _&beta;<sub>1</sub>*_`Food` + _&beta;<sub>2</sub>*_`Decor` + _&beta;<sub>4</sub>*_`East` + _e_ (Reducido)
 
-contra
+*contra*
 
-H1: H0 no es verdad
+_H<sub>1</sub>: H<sub>0</sub>_ no es verdad,
 es decir, 
-Y = beta0 + beta1*Food + beta2*Decor +  beta3*Service + beta4*East 
-           + beta5*Food*East + beta6*Decor*East + beta7*Service*East + e (Completo)
 
-La prueba de si el efecto de los predictores depende de la variable dummy East puede lograrse usando la siguiente prueba-F parcial.
+`Price` _= &beta;<sub>0</sub>_ + _&beta;<sub>1</sub>*_`Food` + _&beta;<sub>2</sub>*_`Decor` +  _&beta;<sub>3</sub>*_`Service` + _&beta;<sub>4</sub>*_`East` + 
+           _&beta;<sub>5</sub>*_ `Food`_*_`East` + _&beta;<sub>6</sub>*_ `Decor`_*_`East` + _&beta;<sub>7</sub>*_ `Service`_*_`East` + _e_ (Completo)
+
+La prueba de si el efecto de los predictores depende de la variable dummy `East` puede lograrse usando la siguiente prueba-F parcial.
 
 ```R
 anova(m2,mfull)
 ```
 
-Dado que el p-value es aproximadamente 0.36, fallamos en rechazar la hipótesis nula y adopatamos el modelo reducido Y = beta0 + beta1*Food + beta2*Decor + beta4*East + e (Reducido)
+Dado que el p-value es aproximadamente 0.36, fallamos en rechazar la hipótesis nula y adopatamos el modelo reducido `Price` _= &beta;<sub>0</sub>_ + _&beta;<sub>1</sub>*_`Food` + _&beta;<sub>2</sub>*_`Decor` + _&beta;<sub>4</sub>*_`East` + _e_.
 
 ### Inspirado en:
 
