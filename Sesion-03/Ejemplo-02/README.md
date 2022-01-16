@@ -36,7 +36,7 @@ summary(m2)
 
 ######
 
-Que el modelo `m2` sugiera que la variable predictora `Service` no es estadísticamente significativa, puede crear controversia entre los expertos dedicados a la industría restaurantera, por lo que es recomendable que consideremos un modelo donde el efecto de los predictores dependa de si el restaurante se encuentra al este o al oeste de la quinta avenida. Es decir, debemos de considerar un modelo más completo.
+Que consideremos que la variable predictora `Service` no es estadísticamente significativa, puede crear controversia entre los expertos dedicados a la industría restaurantera, por lo que es recomendable que tomemos en cuenta un modelo donde el efecto de los predictores dependa de si el restaurante se encuentra al este o al oeste de la quinta avenida. Es decir, debemos de considerar un modelo más completo.
 
 Para investigar si el efecto de los predictores depende de la variable dummy `East` consideraremos el siguiente modelo el cual es una extensión a más de una variable predictora del modelo de rectas de regresión no relacionadas 
 
