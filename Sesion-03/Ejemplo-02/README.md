@@ -22,7 +22,7 @@ attach(nyc)
 
 Ajustemos un modelo donde la variable de respuesta es `Price` sin considerar la variable `Service` ya que anteriormente se observó que su coeficiente de regresión no fue estadísticamente significativo.
 
-_Y_ = _&beta;<sub>0</sub>_ + _&beta;<sub>1</sub>_*`Food` + beta2*Decor + beta4*East + e` (Reducido)
+_Y_ = _&beta;<sub>0</sub>_ + _&beta;<sub>1</sub>*_`Food` + _&beta;<sub>2</sub>*_`Decor` + _&beta;<sub>4</sub>*_`East` + _e_ (Reducido)
 
 ```R
 m2 <- lm(Price ~ Food + Decor + East)
