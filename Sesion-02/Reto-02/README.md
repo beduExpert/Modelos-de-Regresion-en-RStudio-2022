@@ -1,4 +1,4 @@
-# Reto # - Nombre del reto
+# Reto 2 - Regresión multiple sobre el dataset *Auto*
 
 ## Objetivo
 
@@ -6,10 +6,12 @@
 
 ## Desarrollo
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
+Utilizando el data set de *Auto*, realiza las siguientes acciones: 
 
-Aquí se debe agregar eal desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
-
+1. Genera una matriz de _scatterplots_ con todas las variables del conjunto de datos
+2. Calcula la matriz de correlación utilizando la función _cor()_, excluyendo las variables cualitativas 
+3. Implementa una regresión lineal multiple con _mpg_ como variable de respuesta y todas las demás variables (excepto nombre), como variables predictoras y responde las siguientes pregunatas: 
+  a) ¿Existe una relación entre entre las variables predictoras y la variable de respuesta?
+  b) ¿Cuáles variables tienen signifiacia estadística?
+  c) ¿Cuál es el coeficiente para la variable _año_?
+4. Examina los gráficos de los errores estandar y determina si cumplen las condiciones esperadas
