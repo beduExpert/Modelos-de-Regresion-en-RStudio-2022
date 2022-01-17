@@ -43,7 +43,7 @@ Con el comando _Contrast()_, podemos entender como es que se generan las variabl
 > contrasts(ShelveLoc)
 ```
 
-Lo relevante será observar los coeficientes en _value_, para éstas variables ya que entre mayor sea este valor y positivo indica una mejor venta, tal es el caso del coeficiente para la variable _ShelveLocGood_, el cual indica una mayor venta entre mejor sea su localización, lo mismo ocurre para _ShelveLocMedium_, sin embargo ya que es mejor al coefiete anterior las ventas no son tan buenas como el caso anterior. 
+Lo relevante será observar los coeficientes (lm.fit$coefficients), para éstas variables ya que entre mayor sea este valor y positivo indica una mejor venta, tal es el caso del coeficiente para la variable _ShelveLocGood_, el cual indica una mayor venta entre mejor sea su localización, lo mismo ocurre para _ShelveLocMedium_, sin embargo ya que es mejor al coefiente anterior las ventas no son tan buenas como el caso anterior. 
 
 También podemos quitar algunas variables del modelo para tratar de mejorar el ajuste, de la siguiente manera: 
 
