@@ -85,4 +85,6 @@ Para tener un mayor detalle se pueden realizar los gráficos asociados a los res
 plot(lm.fit1)
 ```
 
-<img src="figs/residual.png" width="470" />
+<img src="figs/residual.png" width="670" />
+
+Con estos gráficos tendremos certeza sobre el ajuste del modelo de regresión lineal multiple y podremos comprobar de igual forma las hipótesis que pide este tipo de algoritmo.
