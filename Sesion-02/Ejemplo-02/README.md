@@ -78,3 +78,11 @@ library(ggplot2)
    labs( x= "index", y = "residuals", title = "Varianza de los residuales")
 ```
 <img src="figs/var.png" width="470" />
+
+Para tener un mayor detalle se pueden realizar los gráficos asociados a los residuales 
+
+```R
+plot(lm.fit1)
+```
+
+<img src="figs/residual.png" width="470" />
