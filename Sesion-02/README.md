@@ -18,11 +18,9 @@ En esta sesión estudiaremos temas relacionados con los siguientes puntos
 - Funciones para combinar data frames en `R` por filas o por columnas
 - Importación de datos a `R`
 
-<img src="images/tools.png" align="right" height="90"> 
+#### <ins> Ejemplo 1</ins>
 
-#### <ins>Tema 1</ins>
-
-Se detalla como crear un proyecto android desde nuestra IDE __Android Studio__, viendo el significado de los distintos campos y opciones para su configuración.
+En el desarrollo de este ejemplo se propone una problemática en la que se realiza una regresión multiple, para estimar la satisfacción de clientes en un restaurante situado en la ciudad de Nueva York.
 
 - [**`EJEMPLO 1`**](./Ejemplo-01)
 
@@ -32,34 +30,19 @@ Se detalla como crear un proyecto android desde nuestra IDE __Android Studio__, 
 
 #### <ins>Tema 2</ins>
 
-Una vez que el proyecto está creado, la estructura o forma en la que se organiza es de suma importancia. No sólo nos ayuda a mantener nuestro código organizado, sino que también es importante para el funcionamiento de nuestra nueva app.
+Para este ejemplo de igual manera se realiza una regresión multiple pero ahora teniendo una variable predictora de tipo cualitativo, además de otras de tipo cuantitativo, se podrá apreciar como R genera variables dummy en este caso.  
 
 - [**`EJEMPLO 2`**](./Ejemplo-02)
 - [**`RETO 1`**](./Reto-01)
 ---
 
-<img src="images/emulator.jpg" align="right" height="90"> 
-
-#### <ins>Tema 3</ins>
-
-Ahora que tenemos mayor conocimiento de nuestro proyecto, vamos a configurar un emulador de algún dispositivo móvil para poder correr nuestra aplicación! :iphone:. Es decir, vamos a correr un dispositivo móvil virtual en nuestra computadora para simular la funcionalidad de nuestra app.
-
-**Nota al Experto:**
-  
- + Recuerda que cada subtema puede contener un ejemplo, un reto, o más de un ejemplo y más de un reto. Recuerda borrar esta línea después de haberla leído.
 - [**`RETO 2`**](./Reto-02)
 ---
 
 <img src="images/chaomi.png" align="right" height="110"> 
 
-#### <ins>Tema 4</ins>
 
-Basta de emulaciones, ahora veamos como funciona en el mundo real. Nuestra app, por muy sencilla que sea ya está lista para ser instalada en un dispositivo móvil y para verla en acción.
-
-**Nota al Experto:**
-  
- + Recuerda que cada subtema puede contener un ejemplo, un reto, o más de un ejemplo y más de un reto. Recuerda borrar esta línea después de haberla leído.
-- [**`RETO 3`**](./Reto-03)
+  - [**`RETO 3`**](./Reto-03)
 ---
 
 ### 3. Postwork :memo:
