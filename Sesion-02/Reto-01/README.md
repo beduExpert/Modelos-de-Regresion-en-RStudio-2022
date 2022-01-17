@@ -17,6 +17,6 @@ Supongamos que nuestro trabajo consiste en aconsejar a un cliente sobre como mej
 
 
 
-[`Solución`](../Sesion-02/Reto-01/Reto_01_Solucion.R)  
+[`Solución`](https://github.com/beduExpert/Modelos-de-Regresion-en-RStudio-2022/blob/main/Sesion-02/Reto-01/Reto_01_Solucion.R)  
 
-https://github.com/beduExpert/Modelos-de-Regresion-en-RStudio-2022/blob/main/Sesion-02/Reto-01/Reto_01_Solucion.R
+
