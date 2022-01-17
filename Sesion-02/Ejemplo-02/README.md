@@ -59,3 +59,22 @@ lm.fit1 <- update(lm.fit , ∼ . - Population)
 ```
 
 Esto produce el mismo resultado del comando anterior. Compara los modelos para tratar de determinar cual tiene mejor ajuste, ¿qué otras variables sería bueno quitar?
+
+Adicionalmente podemos probar algunas propiedades de los residuales, como puede ser su distribución obteniendo el histograma y la varianza constante con un _scatter plot_
+
+```R
+library(ggplot2)
+ library(dplyr)
+ #plot(lm.fit1$residuals)
+   ggplot(lm.fit1, aes(lm.fit1$residuals), ) + 
+   geom_histogram(bins = 12)+ 
+   labs( x= "residuals", y = "cuenta", title = "Histograma de los residuales")
+ ```
+ <img src="figs/hist.png" width="470" />
+ 
+ ```R
+ ggplot(lm.fit1, aes(x = seq(1:length(lm.fit1$residuals)) , y = lm.fit1$residuals)) + 
+   geom_point() + 
+   labs( x= "index", y = "residuals", title = "Varianza de los residuales")
+```
+<img src="figs/var.png" width="470" />
