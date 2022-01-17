@@ -30,8 +30,9 @@ En el desarrollo de este ejemplo se propone una problemática en la que se reali
 
 Para este ejemplo de igual manera se realiza una regresión multiple pero ahora teniendo una variable predictora de tipo cualitativo, además de otras de tipo cuantitativo, se podrá apreciar como R genera variables dummy en este caso.  
 
-- [**`EJEMPLO 2`**](./Ejemplo-02)
-- [**`RETO 1`**](./Reto-01)
+  - [**`EJEMPLO 2`**](./Ejemplo-02)
+---
+  - [**`RETO 1`**](./Reto-01)
 ---
 
 - [**`RETO 2`**](./Reto-02)
