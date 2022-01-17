@@ -39,7 +39,7 @@ Para este ejemplo de igual manera se realiza una regresión multiple pero ahora 
 
 Encuentra las indicaciones y consejos para reflejar los avances de tu proyecto de este módulo.
 
-- [**`POSTWORK SESIÓN 1`**](./Postwork/)
+- [**`POSTWORK SESIÓN 2`**](./Postwork/)
 
 <br/>
 
