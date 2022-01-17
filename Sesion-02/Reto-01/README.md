@@ -15,3 +15,6 @@ Supongamos que nuestro trabajo consiste en aconsejar a un cliente sobre como mej
 
 1. Ajuste modelos de regresión lineal múltiple a los datos [`advertisement.csv`](https://raw.githubusercontent.com/beduExpert/Programacion-R-Santander-2021/main/Sesion-05/Reto-01/advertising.csv) y elija el modelo "más adecuado" siguiendo los procedimientos vistos en el Ejemplo 1.
 
+
+
+[`Solución`](../Ejemplo-02/Readme.md)  
