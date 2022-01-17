@@ -17,4 +17,4 @@ Supongamos que nuestro trabajo consiste en aconsejar a un cliente sobre como mej
 
 
 
-[`Solución`](../Ejemplo-02/Readme.md)  
+[`Solución`](../Ejemplo-02/Reto_01_Solucion.R)  
