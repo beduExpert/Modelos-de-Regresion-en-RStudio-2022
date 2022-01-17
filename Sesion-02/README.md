@@ -14,9 +14,8 @@ En esta sesión estudiaremos temas relacionados con los siguientes puntos
 
 - Medidas de posición y de dispersión
 - Funciones para observar algunas características de objetos en `R`
-- Funciones para filtrar filas, seleccionar variables y transformar un data frame en `R`
-- Funciones para combinar data frames en `R` por filas o por columnas
 - Importación de datos a `R`
+- Generar gráficos con ggplot
 
 #### <ins> Tema 1</ins>
 
@@ -26,7 +25,6 @@ En el desarrollo de este ejemplo se propone una problemática en la que se reali
 
 ---
 
-<img src="images/structure.png" align="right" height="90"> 
 
 #### <ins>Tema 2</ins>
 
@@ -39,11 +37,6 @@ Para este ejemplo de igual manera se realiza una regresión multiple pero ahora 
 - [**`RETO 2`**](./Reto-02)
 ---
 
-<img src="images/chaomi.png" align="right" height="110"> 
-
-
-  - [**`RETO 3`**](./Reto-03)
----
 
 ### 3. Postwork :memo:
 
