@@ -18,7 +18,7 @@ En esta sesión estudiaremos temas relacionados con los siguientes puntos
 - Funciones para combinar data frames en `R` por filas o por columnas
 - Importación de datos a `R`
 
-#### <ins> Ejemplo 1</ins>
+#### <ins> Tema 1</ins>
 
 En el desarrollo de este ejemplo se propone una problemática en la que se realiza una regresión multiple, para estimar la satisfacción de clientes en un restaurante situado en la ciudad de Nueva York.
 
