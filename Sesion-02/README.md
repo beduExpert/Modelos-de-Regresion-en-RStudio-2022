@@ -22,7 +22,7 @@ En esta sesión estudiaremos temas relacionados con los siguientes puntos
 En el desarrollo de este ejemplo se propone una problemática en la que se realiza una regresión multiple, para estimar la satisfacción de clientes en un restaurante situado en la ciudad de Nueva York.
 
 - [**`EJEMPLO 1`**](./Ejemplo-01)
-
+- [**`RETO 1`**](./Reto-01)
 ---
 
 
@@ -30,11 +30,7 @@ En el desarrollo de este ejemplo se propone una problemática en la que se reali
 
 Para este ejemplo de igual manera se realiza una regresión multiple pero ahora teniendo una variable predictora de tipo cualitativo, además de otras de tipo cuantitativo, se podrá apreciar como R genera variables dummy en este caso.  
 
-  - [**`EJEMPLO 2`**](./Ejemplo-02)
----
-  - [**`RETO 1`**](./Reto-01)
----
-
+- [**`EJEMPLO 2`**](./Ejemplo-02)
 - [**`RETO 2`**](./Reto-02)
 ---
 
