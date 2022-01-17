@@ -14,6 +14,7 @@
 Analicemos un poco más el conjunto de datos `nyc.csv`
 
 ```R
+setwd("C:\\Users\\User\\Documents\\FDS\\2022-01-BEDU\\Books\\S2")
 nyc <- read.csv("nyc.csv", header = TRUE)
 ```
 
