@@ -82,7 +82,10 @@ library(ggplot2)
 Para tener un mayor detalle se pueden realizar los gráficos asociados a los residuales 
 
 ```R
+par(mfrow = c(2,2))
 plot(lm.fit1)
+dev.off()
+
 ```
 
 <img src="figs/residual.png" width="670" />
