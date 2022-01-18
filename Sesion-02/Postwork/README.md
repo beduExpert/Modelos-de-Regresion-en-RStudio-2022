@@ -21,3 +21,5 @@
 6.  Obten los intervalos de confianza.   
 7.  Existe evidencia de _outlayers_ en el modelo propuesto en 5. 
 
+
+## Aprendizajes esperados
