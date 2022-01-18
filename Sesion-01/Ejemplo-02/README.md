@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-* Ajustar un modelo de regresión polinomial a datos de rendimiento de gasolina. Mostrar que en ocasiones, es necesario realizar alguna transformación a los datos para que algunos supuestos sobre los residuales se cumplan.
+* Ajustar un modelo de regresión polinomial a datos de rendimiento de gasolina. Predecir el rendimiento de la gasolina usando el número de caballos de fuerza como variable predictora. Mostrar que en ocasiones, es necesario realizar alguna transformación a los datos para que algunos supuestos sobre los residuales se cumplan.
 
 ## Requisitos
 
