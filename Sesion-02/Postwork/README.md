@@ -2,7 +2,7 @@
 
 ## :dart: Objetivos
 
-- Ajustar un modelo de regresión multiple
+- Ajustar un modelo de regresión lineal multiple
 - Estimar si las ventas mejorar o empeoran a partir de un predictor
 
 
