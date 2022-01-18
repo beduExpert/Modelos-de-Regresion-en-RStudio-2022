@@ -19,3 +19,7 @@ Utilizando el data set de *Auto*, realiza las siguientes acciones:
   c) ¿Cuál es el coeficiente para la variable _año_?
 
 4. Examina los gráficos de los errores estándar y determina si cumplen las condiciones esperadas
+
+5. ¿Existen outliers dentro del conjunto de datos? 
+
+
