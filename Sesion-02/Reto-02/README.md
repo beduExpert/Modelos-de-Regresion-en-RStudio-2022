@@ -1,4 +1,4 @@
-# Reto 2 - Regresión multiple sobre el dataset *Auto*
+# Reto 2 - Regresión lineal múltiple sobre el dataset *Auto*
 
 ## Objetivo
 
@@ -14,8 +14,8 @@ Utilizando el data set de *Auto*, realiza las siguientes acciones:
 
   a) ¿Existe una relación entre entre las variables predictoras y la variable de respuesta?
   
-  b) ¿Cuáles variables tienen signifiacia estadística?
+  b) ¿Cuáles variables tienen significancia estadística?
   
   c) ¿Cuál es el coeficiente para la variable _año_?
 
-4. Examina los gráficos de los errores estandar y determina si cumplen las condiciones esperadas
+4. Examina los gráficos de los errores estándar y determina si cumplen las condiciones esperadas
