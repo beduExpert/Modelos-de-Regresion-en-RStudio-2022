@@ -23,3 +23,8 @@
 
 
 ## Aprendizajes esperados
+
++ Realizar ajuste de regresión tanto simples como multivariados.
++ Manejo de variables cuantitativas como predictores.
++ Puesta en práctica pruebas de hipótesis para descartar variables que no sean estadísticamente significativas para la implementación de los modelos.
++ Generar gráficos para comprobar hipótesis sobre los errores residuales.
