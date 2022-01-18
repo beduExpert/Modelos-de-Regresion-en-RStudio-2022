@@ -29,7 +29,6 @@
 # Primero debemos establecer nuestro directorio de trabajo y el archivo
 # de datos (advertising.csv) que importaremos a R deberá de estar en este directorio
 
-setwd("C:\\Users\\User\\Desktop\\Programacion-con-R-Santander-master\\Sesion-05\\Reto-01")
 adv <- read.csv("advertising.csv")
 
 # Observamos algunas filas y la dimensión del data frame
@@ -100,37 +99,6 @@ dev.off()
 shapiro.test(StanRes2)
 
 ######
-
-# Análisis de covarianza
-
-# Consideraremos el siguiente modelo 
-
-# Sales = beta0 + beta1*TV + beta2*Radio +  beta3*TV*Radio + e
-
-mfull <- lm(Sales ~ TV + Radio + 
-                         TV:Radio)
-
-summary(mfull)
-
-# Ahora compararemos el modelo mfull contra el modelo m2. 
-# Es decir, llevaremos a cabo una prueba de hipótesis
-# general de
-
-# H0: beta3 = 0
-# es decir Sales = beta0 + beta1*TV + beta2*Radio + e
-# contra
-# H1: H0 no es verdad
-# es decir, 
-# Sales = beta0 + beta1*TV + beta2*Radio +  beta3*TV*Radio +  e
-
-# Esta puede lograrse usando la siguiente prueba-F parcial.
-
-anova(m2,mfull)
-
-# Dado que el p-value es aproximadamente 7.633e-07, rechazamos la hipótesis nula
-# y nos decidimos por la hipótesis alternativa
-# Sales = beta0 + beta1*TV + beta2*Radio +  beta3*TV*Radio +  e
-
 ######
 
 # Diagnósticos
