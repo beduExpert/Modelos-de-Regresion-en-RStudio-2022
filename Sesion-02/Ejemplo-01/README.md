@@ -74,3 +74,13 @@ m2 <- update(m1, ~.-Service)
 summary(m2)
 ```
 
+Por último obtenemos los residuales para su análisis
+
+```R
+par(mfrow = c(2,2))
+plot(lm.fit)
+dev.off()
+```
+
+
+
