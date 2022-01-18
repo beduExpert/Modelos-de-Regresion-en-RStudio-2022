@@ -1,7 +1,7 @@
 # Solución Reto 3. SEsión 2
 
 # Realizamos la carga de los datos
-boston <- read.csv("boston.csv")
+boston <- read.csv("BostonHousing.csv")
 
 str(boston) #  estructura de los datos.
 
