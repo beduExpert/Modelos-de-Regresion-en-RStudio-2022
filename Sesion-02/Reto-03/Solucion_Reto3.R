@@ -12,7 +12,7 @@ corrplot(round(cor(subset(boston, select = -chas)), digits = 3), type = "lower")
 
 
 # 2. determinación de modelo con más variables aplicadas
-modelo <- lm(medv ~ rm + zn + dis +b, data = boston)
+modelo <- lm(medv ~ rm + zn + dis +black, data = boston)
 summary(modelo)
 
 # 3. Gráficos de los residuales
