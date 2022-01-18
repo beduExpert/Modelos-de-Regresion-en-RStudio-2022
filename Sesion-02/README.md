@@ -31,6 +31,7 @@ Para este ejemplo de igual manera se realiza una regresión multiple pero ahora 
 
 - [**`EJEMPLO 2`**](./Ejemplo-02)
 - [**`RETO 2`**](./Reto-02)
+- [**`RETO 3`**](./Reto-03)
 ---
 
 
