@@ -3,6 +3,8 @@
 # 1. Matriz de scatterplots 
 plot(Auto[,-9])
 
+# también se puede hacer con: 
+pairs(Auto[,-9])
 
 # 2. Obteniendo la matriz de correlaciones de todas las varilbles
 cor(Auto[,-9])
