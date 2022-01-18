@@ -19,7 +19,7 @@
 4.  ¿Cuál de los predictores puede ser rechazado y por qué?
 5.  Con base a la respuesta anterior, realiza de nuevo ajusta un modelo reducido.
 6.  Obten los intervalos de confianza.   
-7.  Existe evidencia de _outlayers_ en el modelo propuesto en 5. 
+7.  Existe evidencia de _outliers_ en el modelo propuesto en 5. 
 
 
 ## Aprendizajes esperados
