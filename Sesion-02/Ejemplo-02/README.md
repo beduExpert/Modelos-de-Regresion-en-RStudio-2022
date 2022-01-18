@@ -26,7 +26,7 @@ Dentro del dataset se encuentra la variable _Shelveloc_, la cual contiene predic
 
 ```R
 lm.fit <- lm( Sales ~ CompPrice +  Income + Advertising + Population + Price + ShelveLoc + Age + Education + 
-                US + Urban, data = cars)
+                US + Urban, data = Carseats)
 ```
 
 O se puede realizar con la siguiente instrucción para ahorrar escritura, la cual toma todas las variables:
