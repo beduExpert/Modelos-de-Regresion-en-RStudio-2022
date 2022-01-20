@@ -17,7 +17,7 @@
 2. Da una interpretación de cada uno de los coeficientes de la regresión (Cuidado con las variables cualitativas).
 3.  Escribe el modelo en forma de ecuación, (Cuidado con las variables cualitativas). 
 4.  ¿Cuál de los predictores puede ser rechazado y por qué?
-5.  Con base a la respuesta anterior, realiza de nuevo ajusta un modelo reducido.
+5.  Con base a la respuesta anterior, realiza de nuevo y ajusta un modelo reducido.
 6.  Obten los intervalos de confianza.   
 7.  Existe evidencia de _outliers_ en el modelo propuesto en 5. 
 
