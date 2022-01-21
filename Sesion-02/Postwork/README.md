@@ -1,4 +1,4 @@
-# Sesión 2: Regresión lineal múltiple
+# Sesión 2: Regresión lineal múltiple y el dataset _Carseats_
 
 ## :dart: Objetivos
 
