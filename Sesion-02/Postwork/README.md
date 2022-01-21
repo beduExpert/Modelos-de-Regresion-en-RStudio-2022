@@ -38,4 +38,5 @@ El ajuste por medio de regresiones lineales llámese simple o multiple, es una t
 ## ¡Recapitulemos!
 
 Explicar detalladamente cada paso ejecutado
+
 Presentar el código de tu postwork en un repositorio de github
