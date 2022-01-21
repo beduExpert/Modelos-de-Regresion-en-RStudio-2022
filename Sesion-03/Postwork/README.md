@@ -2,8 +2,8 @@
 
 ## :dart: Objetivos
 
-- Aumentar el nivel de ajuste de R cuadrada
-- interacción entre variables predictoras para aumentar su significacia  
+- Mostrar como se realiza el ajuste de modelos de regresión cuando se consideran términos de interacción
+- Descubrir un mejor modelo entre un conjunto de modelos
 
 
 ## ⚙ Requisitos
