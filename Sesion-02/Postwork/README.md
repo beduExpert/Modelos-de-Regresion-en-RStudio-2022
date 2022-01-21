@@ -10,7 +10,7 @@
 Para llevar a cabo este postwork necesitarás todas las herramientas utilizadas durante el prework y el work.
 
 - Paquete ISLR
-- PAquete ggplot2 
+- Paquete ggplot2 
 - Tener cuenta de Github
 
 
