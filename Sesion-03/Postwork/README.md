@@ -1,4 +1,4 @@
-# Sesión 3: Términos de interacción  
+# Sesión 3: Extención del modelo de regresión lineal múltiple mediante términos de interacción  
 
 ## :dart: Objetivos
 
