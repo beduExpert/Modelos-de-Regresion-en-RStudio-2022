@@ -9,9 +9,9 @@
 ## ⚙️ Setup
 Para llevar a cabo este postwork necesitarás todas las herramientas utilizadas durante el prework y el work.
 
-Paquete ISLR
-install.packages(“ggplot2”) 
-Tener cuenta de Github
+- Paquete ISLR
+- install.packages(“ggplot2”) 
+- Tener cuenta de Github
 
 
 
