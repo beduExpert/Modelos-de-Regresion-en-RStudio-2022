@@ -13,7 +13,7 @@
 
 ## Desarrollo
 
-En esta sección se te pedirá considerar una interacción de variables de acuerdo a la regresión multiple realizada en el postwork 2, utilzando el dataset de `Carseats`. Realiza lo que se te indica a continuación:
+En esta sección se te pedirá considerar una interacción de variables de acuerdo a la regresión múltiple realizada en el postwork 2, utilzando el dataset de `Carseats`. Realiza lo que se te indica a continuación:
 
 1. Tomando la regresión generada en el postwork 2, realiza otro modelo en el que incluyas las variables de interacción: `Income:Advertising + Price:Age`; agregándolas al modelo completo (full), es decir, el que tenga todas las variables (sugerencia: a este lo puedes nombrar `full.interac`).
 2. Realiza el _summary_ para considerar eliminar las variables que no son estadísticamente significativas.
