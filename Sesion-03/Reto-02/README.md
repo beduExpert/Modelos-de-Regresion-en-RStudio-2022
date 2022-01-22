@@ -22,10 +22,10 @@ X3: Newspaper (Presupuesto de publicidad en Periódico para el producto)
 1. Ajuste un modelo de regresión lineal sin considerar la variable `Newspaper`.
 2. Obtenga un resumen del modelo ajustado.
 3. Obtenga los siguientes gráficos de diagnóstico
-     - Ventas contra valores ajustados
-     - Gráficos de dispersión de los predictores
-     - Gráficos de dispersión de residuales estándarizados contra predictores
-     - qqplots para soportar o rechazar la hipótesis de normalidad de residuales
+     * Ventas contra valores ajustados
+     * Gráficos de dispersión de los predictores
+     * Gráficos de dispersión de residuales estándarizados contra predictores
+     * qqplots para soportar o rechazar la hipótesis de normalidad de residuales
 4. Ajuste un modelo de regresión sin considerar la variable `Newspaper` y donde incluya la interacción de los otros predictores.
 5. Obtenga un resumen del modelo anterior
 6. Mediante un contraste de hipótesis elija el modelo más adecuado
