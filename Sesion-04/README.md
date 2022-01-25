@@ -1,4 +1,4 @@
-## Sesión 4: Nombre de sesión 🤖
+## Sesión 4: Shrinkage methods 🤖
 
 <img src="../images/android-kotlin.png" align="right" height="120" hspace="10">
 <div style="text-align: justify;">
