@@ -11,8 +11,19 @@ Del conjunto de datos `Boston` que contiene valores de casas en 506 suburbios de
 <details><summary>Solución</summary>
 <p>
 
-...
-  
+```R
+fit1 <- lm(medv ~ 
+             lstat +
+             age +
+             lstat:age, data = Boston)
+```
+        
+Otra manera de realizar exactamente el mismo ajuste es la siguiente
+
+```R
+fit2 <- lm(medv ~ lstat*age, data = Boston)
+```
+
 </p>
 </details>
 
