@@ -12,6 +12,15 @@ Del conjunto de datos `Boston` que contiene valores de casas en 506 suburbios de
 <p>
 
 ```R
+library(ISLR2)
+```
+
+```R
+head(Boston)
+?Boston
+```
+  
+```R
 fit1 <- lm(medv ~ 
              lstat +
              age +
