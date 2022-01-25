@@ -1,4 +1,4 @@
-# Reto # - Nombre del reto
+# Reto 1 - Ajuste con término de interacción
 
 ## Objetivo
 
