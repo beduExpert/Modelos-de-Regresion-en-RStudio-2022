@@ -6,10 +6,13 @@
 
 ## Desarrollo
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
+Del conjunto de datos `Boston` que contiene valores de casas en 506 suburbios de Boston, considere el valor medio de las viviendas ocupadas por sus propietarios (`medv`) como variable de respuesta. Ajuste un modelo de regresión que incluya simultáneamente `lstat`, `age`, y el término de interacción `lstat\times age` como predictores.
 
-Aquí se debe agregar el desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
+<details><summary>Solución</summary>
+<p>
+
+...
+  
+</p>
+</details>
 
