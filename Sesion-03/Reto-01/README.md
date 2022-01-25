@@ -6,7 +6,7 @@
 
 ## Desarrollo
 
-Del conjunto de datos `Boston` que contiene valores de casas en 506 suburbios de Boston, considere el valor medio de las viviendas ocupadas por sus propietarios (`medv`) como variable de respuesta. Ajuste un modelo de regresión que incluya simultáneamente `lstat`, `age`, y el término de interacción `lstat\times age` como predictores.
+Del conjunto de datos `Boston` que contiene valores de casas en 506 suburbios de Boston, considere el valor medio de las viviendas ocupadas por sus propietarios (`medv`) como variable de respuesta. Ajuste un modelo de regresión que incluya simultáneamente `lstat`, `age`, y el término de interacción `lstat* age` como predictores.
 
 <details><summary>Solución</summary>
 <p>
