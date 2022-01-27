@@ -1,12 +1,9 @@
-## Sesión 5: Nombre de sesión 🤖
-
-<img src="../images/android-kotlin.png" align="right" height="120" hspace="10">
-<div style="text-align: justify;">
+## Sesión 5: Métodos de reducción de dimensión
 
 ### 1. Objetivos :dart: 
 
-- Reconocer el IDE Android Studio con el que desarrollan aplicaciones móviles.
-- Conocer la estructura de un proyecto android y todos los archivos generados por el IDE
+- Aplicar técnicas de reducción de dimensión 
+- Generar conjuntos de datos menores al original para reducir la cantidad información
 
 ### 2. Contenido :blue_book:
 
