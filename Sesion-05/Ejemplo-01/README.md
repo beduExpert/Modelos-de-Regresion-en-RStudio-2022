@@ -1,4 +1,4 @@
-# Ejemplo # - Regresión de componentes principales 
+# Ejemplo 1 - Regresión de componentes principales 
 
 ## Objetivo
 
