@@ -51,7 +51,7 @@ scale = TRUE , validation = "CV")
 validationplot(pcr.fit , val.type = "MSEP")
 ```
 
-Se observa que el error mínimo se obtiene en la componente M = 8, también se calcula el MSE para el conjunto _train_
+Se observa que el error mínimo que más o menos es constante se obtiene en la componente M = 5, también se calcula el MSE para el conjunto _train_
 ```R
 set.seed (1)
 train <- sample (1: nrow(x), nrow(x) / 2)
