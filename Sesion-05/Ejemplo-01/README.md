@@ -37,15 +37,15 @@ Se observa que el error mínimo ocurre cuando se tienen 18 componentes, sin emba
 
 Ahora vamos a evaluar el modelo en un conjunto de prueba _test_, realizandolo de la siguiente manera:
 
+Primero construimos dos conjuntos de datos uno de entrenamiento y otro de prueba:
 ```R
 set.seed (1)
-train <- sample(c(TRUE , FALSE), nrow(Hitters),
-                replace = TRUE)
-test <- (!train)
+train <- sample(c(TRUE , FALSE), nrow(Hitters), replace = TRUE) # conjunto de entrenamiento
+test <- (!train) # conjunto de prueba
 ```
 
+Ahora calculamos la regresión de componentes principales con el comando _pcr()_
 ```R
-set.seed (1)
 pcr.fit <- pcr(Salary ∼ ., data = Hitters , subset = train ,
 scale = TRUE , validation = "CV")
 validationplot(pcr.fit , val.type = "MSEP")
