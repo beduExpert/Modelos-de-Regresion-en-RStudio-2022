@@ -2,7 +2,8 @@
 
 ## Objetivo
 
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Presentar un modelo que es una extensión del modelo de regresión lineal múltiple.
+* Mostrar como es posible elegir un mejor modelo dentro de un conjunto de modelos.
 
 ## Desarrollo
 
