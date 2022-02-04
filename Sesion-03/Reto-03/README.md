@@ -2,7 +2,13 @@
 
 ## Objetivo
 
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Explicar de una mejor manera la relación que existe entre el balance de tarjetas de crédito y el ingreso de clientes
+* Elegir el mejor modelo de un conjunto de modelos
+
+## Requisitos
+
+* Haber trabajado con el Prework y el Work
+* Tener instalado `R` y `RStudio`
 
 ## Desarrollo
 
